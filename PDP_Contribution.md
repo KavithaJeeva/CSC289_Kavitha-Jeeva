@@ -1,0 +1,3 @@
+# Project Development Plan (PDP) Contribution
+
+I am a member of **Group 2** for the CSC289 Task Management System project. Our **Project Manager (PM) / Group Lead is Bethany Arielle Hill**. I contributed to the Project Development Plan (PDP) by reviewing the project requirements and helping ensure that the development tasks, team responsibilities, project goals, and planned workflow were clearly organized. I also provided feedback and suggestions during the team discussion to help make the PDP complete and aligned with the project requirements.
