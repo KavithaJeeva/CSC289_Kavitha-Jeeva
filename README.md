@@ -1,13 +1,28 @@
-# Task Management System
+# CSC289 Capstone - Task Management System
+
+## Student
+
+**Kavitha Jeeva**
+
+## Course
+
+**CSC289 - Programming Capstone**
+
+**Wake Technical Community College**
+
+## Group
+
+**Group 2**
+
+## Project Manager / Scrum Master
+
+**Bethany Arielle Hill**
 
 ## Project Overview
 
-The **Task Management System** is a web-based application developed as a team project for the CSC289 Capstone course. The application is designed to help users create, manage, search, filter, update, and delete tasks in an organized way.
+The **Task Management System** is a web-based application developed as a team project for the CSC289 Capstone course. The application is designed to help users manage tasks and schedules in an organized way.
 
-## Team
-
-**Team:** Group 2
-**Project Manager / Scrum Master:** Bethany Arielle Hill
+The project is developed using Agile/Scrum practices, with team members contributing to development, testing, documentation, and sprint activities.
 
 ## Project Goals
 
@@ -15,75 +30,80 @@ The main goals of this project are to:
 
 * Create a functional task management application.
 * Allow users to create and manage tasks.
-* Provide task search and filtering functionality.
-* Allow users to update and delete tasks.
+* Provide task management and scheduling functionality.
 * Apply software development and software quality assurance practices.
 * Work collaboratively using GitHub and Agile/Scrum practices.
-
-## Key Features
-
-* Create tasks
-* View and list tasks
-* Search and filter tasks
-* Edit and update tasks
-* Complete tasks
-* Delete tasks with confirmation
-* REST API functionality
-* Database-backed task persistence
-* Automated testing
+* Develop and test the application throughout the project sprints.
 
 ## Technologies
 
 * Python
-* Flask
+* Django
+* HTML/CSS
+* Bootstrap
+* JavaScript
 * SQLite
-* SQLAlchemy
-* REST APIs
-* Pytest
 * Git
 * GitHub
-* HTML/CSS
-* JavaScript
-
-## Project Structure
-
-```text
-Task Management System
-├── app/
-├── tests/
-├── templates/
-├── static/
-├── PDP.md
-├── PDP_Contribution.md
-├── README.md
-└── requirements.txt
-```
-
-> The project structure may change as development continues.
-
-## Testing
-
-The project uses automated tests to verify application functionality and help identify regressions during development.
-
-Tests can be run using:
-
-```bash
-pytest
-```
-
-For additional test details, refer to the project's test documentation and configuration files.
-
-## Team Development
-
-The team follows an Agile/Scrum-based development approach. Team members collaborate through GitHub, use issues/tasks to organize development work, and review changes through the team's development workflow.
+* Pytest
 
 ## Project Documentation
 
-* **Project Development Plan:** `PDP.md`
-* **PDP Contribution:** `PDP_Contribution.md`
+The project documentation and planning materials are organized in the `Project` folder.
 
-## Course
+* [Product Backlog](Project/PB.md)
+* [Personal Development Plan](Project/PDP.md)
+* [PDP Contribution](Project/PDP_Contribution.md)
 
-**CSC289 – Capstone Project**
-**Wake Technical Community College**
+## Sprint Documentation
+
+### Sprint 1
+
+My Sprint 1 work included **Card 1.5 - Build Base UI Shell and Navigation Layout**.
+
+I created the base Django UI template with a Bootstrap navigation bar and added navigation links for Login, Tasks, and Schedule. I also added the content block so other pages can extend the base template.
+
+I tested the application, committed and pushed my changes to my feature branch, and confirmed that the CI check passed successfully.
+
+Sprint 1 documentation is located in:
+
+* [Sprint 1 Contribution](Sprint-1/Sprint-1-Contribution.md)
+* [Sprint 1 Personal Contribution](Sprint-1/Sprint-1-Personal-Contribution.md)
+* [Sprint 1 Status Update](Sprint-1/Sprint-1-Status-Update.md)
+
+Sprint 1 screenshots are located in:
+
+`Sprint-1/screenshots/`
+
+## Future Sprints
+
+Additional documentation and evidence will be added as the project progresses.
+
+```text
+CSC289_Kavitha-Jeeva/
+├── README.md
+├── Project/
+│   ├── PB.md
+│   ├── PDP.md
+│   ├── PDP_Contribution.md
+│   └── screenshots/
+│
+├── Sprint-1/
+│   ├── Sprint-1-Contribution.md
+│   ├── Sprint-1-Personal-Contribution.md
+│   ├── Sprint-1-Status-Update.md
+│   └── screenshots/
+│
+├── Sprint-2/
+│   └── ...
+│
+├── Sprint-3/
+│   └── ...
+│
+└── Sprint-4/
+    └── ...
+```
+
+The repository will be updated throughout the semester with additional sprint contributions, status updates, documentation, and screenshots.
+
 
