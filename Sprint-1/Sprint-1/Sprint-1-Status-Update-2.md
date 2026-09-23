@@ -14,6 +14,12 @@ During Sprint #1, I completed **Card 1.5  Build Base UI Shell and Navigation Lay
 
 ## Evidence
 
-![Sprint-1/screenshots/card-1.5-ui.png](../screenshots/card-1.5-ui.png)
+![Sprint-1](../screenshots/Status_Trello.png)
 
+![Sprint-1](../screenshots/card-1.5-ui.png)
 
+![Sprint-1](../screenshots/LOGIN.png)
+
+![Sprint-1](../screenshots/Schedule.png)
+
+![Sprint-1](../screenshots/Task.png)
