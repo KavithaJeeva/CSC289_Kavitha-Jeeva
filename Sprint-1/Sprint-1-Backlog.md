@@ -1,6 +1,6 @@
 # CSC289 Programming Capstone
 
-## Sprint #2 Backlog
+## Sprint #1 Backlog
 
 **Project Name:** Task Management System
 
@@ -10,10 +10,11 @@
 
 ## During Sprint #1
 
-I worked on Card 2.6 – Data Access for the Task Management System. I added login protection to the Tasks and Schedule pages, restricted task and schedule data to the logged-in user, and protected individual records from unauthorized direct URL access. I also added tests to verify these access controls, and all 9 tests passed successfully.
+I reviewed the team's Product Backlog and participated in creating the Sprint #1 Backlog in Trello. I reviewed the tasks assigned to the sprint and worked with my team on the selected Django framework. I also started my assigned development task, **Card 1.5 - Build Base UI Shell and Navigation Layout**, as part of the Sprint #1 development activities.
 
 ## Evidence
 
-![Sprint-2](../screenshots/sprint1-backlog.png)
+![Sprint-1](screenshots/sprint1-backlog.png)
+
 
 
