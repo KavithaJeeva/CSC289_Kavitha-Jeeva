@@ -10,29 +10,29 @@
 
 ### Tasks Scheduled for this week
 
-1. Complete **Card 2.6 – Data Access**.
-2. Add authentication protection to the Tasks and Schedule pages.
-3. Restrict task and schedule data to the logged-in user.
-4. Add tests for unauthorized access to another user's records.
+1. Complete Card 2.3 – Login Screen and Company-Email Login Flow.
+2. Complete Card 2.6 – Data Access.
+3. Add and run tests for the completed features.
+4. Verify that the changes pass CI.
 
-### Tasks Completed this week [by Name]
+### Tasks Completed this week [Kavitha Jeeva]
 
-**Kavitha Jeeva**
-
-1. Added `@login_required` to the Tasks and Schedule views.
-2. Configured `LOGIN_URL = "/login/"`.
-3. Added user-specific filtering for Tasks and Schedule data.
-4. Added protection for direct URL access to another user's records.
-5. Added tests for user-data isolation and unauthorized access.
-6. All **9 tests passed**, and the CI check passed successfully.
+1. Completed **Card 2.3 – Login Screen and Company-Email Login Flow (UX1)** by creating the login form, styling it to match the base UI, adding validation errors, and adding tests for page rendering and form submission.
+2. Completed **Card 2.6 – Data Access** by requiring authentication for Tasks and Schedule pages, filtering data by the logged-in user, protecting individual records from unauthorized access, and adding security tests.
+3. Ran the project test suite successfully. All **9 tests passed**.
+4. Verified that the CI check passed successfully.
 
 ### Problems/Challenges/Roadblocks
 
-1. The Task and Schedule models were initially empty, so the data-access functionality could not be implemented until the required models were added. **Status: Resolved**
-2. Initial tests had a missing import and trailing whitespace issues. These were corrected, and all tests now pass. **Status: Resolved**
+1. I initially had some issues with assignment submission requirements and file organization. **Status: Resolved**
+2. During development, I corrected a missing test import and trailing whitespace issues. **Status: Resolved**
 
-### Current Status
+### Evidence
 
-**Card 2.6 – Data Access: Completed**
+### Card 2.3 – Login
 
-PR #3 has been updated and the CI check passed successfully. The pull request is awaiting the required team approval before merging.
+![Card 2.3 Login](screenshots/card-2.3-login.png)
+
+### Card 2.6 – Data Access
+
+![Card 2.6 Data Access](screenshots/card-2.6-data-access.png)
