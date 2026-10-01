@@ -1,6 +1,6 @@
 # CSC289 Programming Capstone
 
-## Sprint #2 Status Update 1
+## Sprint #2 Status Update 1 – Week 1
 
 **Project Name:** Task Management System
 
@@ -11,28 +11,38 @@
 ### Tasks Scheduled for this week
 
 1. Complete Card 2.3 – Login Screen and Company-Email Login Flow.
-2. Complete Card 2.6 – Data Access.
-3. Add and run tests for the completed features.
-4. Verify that the changes pass CI.
+2. Add and run tests for the login feature.
+3. Verify that the changes pass CI.
 
 ### Tasks Completed this week [Kavitha Jeeva]
 
-1. Completed **Card 2.3 – Login Screen and Company-Email Login Flow (UX1)** by creating the login form, styling it to match the base UI, adding validation errors, and adding tests for page rendering and form submission.
-2. Completed **Card 2.6 – Data Access** by requiring authentication for Tasks and Schedule pages, filtering data by the logged-in user, protecting individual records from unauthorized access, and adding security tests.
-3. Ran the project test suite successfully. All **9 tests passed**.
-4. Verified that the CI check passed successfully.
+1. Completed **Card 2.3 – Login Screen and Company-Email Login Flow (UX1)** by creating the login form with email and password fields.
+2. Styled the login page to match the base UI and added validation and error messages.
+3. Added tests for the login page and form submission.
+4. Ran the tests successfully and verified that the CI check passed.
 
 ### Problems/Challenges/Roadblocks
 
-1. I initially had some issues with assignment submission requirements and file organization. **Status: Resolved**
-2. During development, I corrected a missing test import and trailing whitespace issues. **Status: Resolved**
+I had some issues with the project setup and testing during development, but I was able to fix them and complete the login feature. **Status: Resolved**
 
 ### Evidence
 
-### Card 2.3 – Login
+### Card 2.3 – Code
+
+![Card 2.3 Login Code 1](screenshots/card-2.3-login-code1.png)
+
+![Card 2.3 Login Code 2](screenshots/card-2.3-login-code2.png)
+
+![Card 2.3 Login Code 3](screenshots/card-2.3-login-code3.png)
+
+### Card 2.3 – Tests Passed
+
+![Card 2.3 Tests Passed](screenshots/card-2.3-tests.png)
+
+### Card 2.3 – Login Page
 
 ![Card 2.3 Login](screenshots/card-2.3-login.png)
 
-### Card 2.6 – Data Access
+### Card 2.3 – CI Passed
 
-![Card 2.6 Data Access](screenshots/card-2.6-data-access.png)
+![Card 2.3 CI Passed](screenshots/card-2.3-ci.png)
