@@ -13,4 +13,4 @@ As a team, we discussed our Sprint #1 experience and worked together to create t
 
 ## Evidence
 
-![Sprint 1](<screenshots/Sprint #1 Retrospective.png>)
+![Sprint 1 Retrospective](../Sprint-1/screenshots/Sprint%20%231%20Retrospective.png)
