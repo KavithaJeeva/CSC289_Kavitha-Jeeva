@@ -9,9 +9,8 @@
 **Team Lead/Scrum Master:** Bethany Arielle Hill
 
 ## During Sprint #1
-
-During Sprint #1, I worked on **Card 1.5  Build Base UI Shell and Navigation Layout** for the Task Management System. I created the Django base template using Bootstrap, added the navigation bar and links for the Login, Tasks, and Schedule pages, and verified that the pages worked correctly. I also tested my changes and confirmed that the CI checks passed.
+As a team, we discussed our Sprint #1 experience and worked together to create the retrospective board. We shared what went well, what could be improved, and any questions or concerns we had. We also discussed action items for the next sprint and agreed on ways to improve our teamwork and communication.
 
 ## Evidence
 
-
+![Sprint 1](<screenshots/Sprint #1 Retrospective.png>)
