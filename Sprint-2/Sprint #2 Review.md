@@ -16,4 +16,4 @@ During Week 2 of Sprint #2, I worked on **Card 2.6 – Data Access** for the Tas
 
 ### Card 2.6 – Trello
 
-![Card 2.6 Trello](screenshots/Sprint%20%232%20Backlog%20%E2%80%93%20Week%202.png)
+![Card 2.6 Trello](screenshots/Sprint%20%232%20Review.png)
