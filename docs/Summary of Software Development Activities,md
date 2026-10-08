@@ -1,0 +1,27 @@
+# Summary of Software Development Activities
+
+**Author:** Kavitha Jeeva  
+**Group:** #2 — Team Lead: Bethany Arielle Hill  
+**Course:** CSC-289  
+
+## Overview
+
+During Sprint 2, I worked on assigned software development tasks for the Task Management System. My main development work included **Card 2.3 – Login Screen and Company-Email Login Flow** and **Card 2.6 – Data Access**. My contributions included coding, testing, debugging, reviewing functionality, and preparing documentation and evidence for my completed work.
+
+## Coding and Development
+
+For **Card 2.3**, I worked on the Django login functionality and login form. I worked with the email and password fields, CSRF protection, and login error messages for missing or invalid information. I also worked with the login tests to verify that the functionality behaved as expected.
+
+For **Card 2.6**, I worked on adding authentication and user-data access controls to the Tasks and Schedule pages. I updated the functionality so that users must be logged in to access these pages and so that users can only access their own information. I also worked on protecting individual task records from unauthorized access through direct URLs.
+
+## Testing and Debugging
+
+I added and ran tests for the data-access functionality and reviewed the test results to make sure the access controls worked correctly. During development, I encountered issues with the data-access implementation and testing configuration. I worked through these issues, made the necessary corrections, and reran the tests. **All 9 tests passed successfully, and the CI check also passed.**
+
+## Documentation
+
+I prepared screenshots and supporting documentation for my assigned work. This included documenting the Trello card, code changes, test results, and CI results. I reviewed the evidence to make sure my individual development activities were clearly documented for the Sprint 2 status submission.
+
+## Reflection
+
+My software development activities during Sprint 2 gave me practical experience with Django authentication, user-data access controls, testing, debugging, and CI. Working through the data-access issues helped me better understand how authentication and authorization affect what users can access in an application. I also gained more experience documenting development work and verifying that changes pass both automated tests and CI checks.
