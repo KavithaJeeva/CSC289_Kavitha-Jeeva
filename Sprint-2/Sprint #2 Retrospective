@@ -1,0 +1,31 @@
+**Author:** Kavitha Jeeva  
+**Group:** #2 — Team Lead: Bethany Arielle Hill  
+**Course:** CSC-289  
+
+## Overview
+
+During the Sprint #2 retrospective, I reviewed my individual participation and development work from the sprint. I reflected on the tasks I completed, the challenges I experienced, what I learned, and what I can improve in the remaining sprints. My main development work during Sprint 2 included **Card 2.3 – Login Screen and Company-Email Login Flow** and **Card 2.6 – Data Access**. I used the retrospective process to evaluate not only the completed functionality but also my communication, testing, documentation, and overall participation in the team's development process.
+
+## My Participation
+
+I participated in the Sprint #2 retrospective by reviewing my completed work and contributing my feedback to the team's discussion. I reflected on the development process and identified areas where I was successful as well as areas where I need to improve. I reviewed the challenges I experienced while working on the assigned cards and considered how I could handle similar situations more effectively in future sprints. I also reviewed the team's retrospective information and contributed feedback about improving communication, task understanding, documentation, and development workflow.
+
+## What Went Well
+
+One area that went well during Sprint 2 was completing my assigned development tasks and verifying my changes through testing. Working on the login and data-access functionality gave me more experience with Django views, authentication, user-specific data access, and automated testing. I also became more comfortable working with GitHub, branches, pull requests, CI checks, and documenting my development work with screenshots and supporting evidence. Completing the tests and reviewing the results helped me understand the importance of verifying functionality before considering a development task complete.
+
+## Challenges and Areas for Improvement
+
+One of the main challenges I identified was that I sometimes needed more time to fully understand the requirements before beginning a task. I also realized that I should communicate sooner when I have questions or encounter an issue instead of spending too much time trying to resolve everything on my own. Another area I need to improve is keeping documentation and screenshots updated while I am completing the development work rather than waiting until the end. I also need to be more careful when reviewing assignment requirements and submission instructions so that my work is complete and submitted in the expected format.
+
+## Lessons Learned
+
+The Sprint #2 retrospective helped me understand that successful software development involves more than writing code. It also requires understanding the requirements, communicating with the team, testing changes, documenting the work, and following the team's development process. I learned that asking questions earlier can prevent delays and that regular communication helps the team stay coordinated. I also learned that testing should be part of the development process rather than something done only at the end.
+
+## Action Plan for the Next Sprint
+
+For the next sprint, I plan to review the requirements and assigned tasks carefully before starting development. I will ask questions earlier when I am unsure about a requirement or encounter a problem. I will also communicate my progress with the team and keep my documentation and screenshots updated as I complete each part of my work. Before considering a task complete, I will run the appropriate tests, review the results, and make sure the required evidence is prepared. I will continue improving my GitHub workflow and development skills so that I can contribute more effectively to the remaining sprints.
+
+## Reflection
+
+Overall, the Sprint #2 retrospective helped me evaluate both my technical work and my participation in the team's development process. I gained practical experience with Django, authentication, user-data access, testing, debugging, GitHub, and CI while working on my assigned cards. At the same time, I identified areas where I can improve my communication, planning, documentation, and understanding of requirements. I will use these lessons in the upcoming sprints to become more organized, communicate more effectively with my team, and contribute consistently to the successful completion of the capstone project.
