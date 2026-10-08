@@ -1,0 +1,43 @@
+## **CSC289 Programming Capstone**
+
+## **Sprint Status Update**
+
+## **Status Update: Sprint 3 – Week 1**
+
+**Project Name:** Task Management System
+
+**Team Number:** Group 2
+
+**Team Lead/Scrum Master:** Bethany Arielle Hill
+
+## **TRELLO BOARD**
+
+{INSERT SCREEN CAPTURE OF CARD 3.3 TRELLO BOARD HERE}
+
+## **STATUS UPDATE DETAILS**
+
+### **Tasks Scheduled for this week:**
+
+1. Confirm the task status choices: To Do, In Progress, and Complete.
+2. Build an edit form, view, and URL to allow users to update task status and other task information.
+3. Add an edit/status control to the Tasks user interface.
+4. Write tests to verify that task status changes are saved correctly and that users can only edit their own tasks.
+
+### **Tasks Completed this week [by Kavitha Jeeva]:**
+
+1. Created a Django `TaskForm` to allow users to edit task information, including task status.
+2. Created the `edit_task` view and URL route for updating tasks.
+3. Created a dedicated task edit template with Save Changes and Cancel controls.
+4. Updated the Tasks page to display the user's tasks, current status, and an Edit button.
+5. Maintained the existing user-data access protection so users can only edit their own tasks.
+6. Added tests to verify that users can update their own task status and that the changes persist in the database.
+7. Added a test to verify that a user cannot edit another user's task.
+8. Ran the complete project test suite. **All 14 tests passed successfully with 0 failures**, and the Django system check reported no issues.
+
+### **Problems/Challenges/Roadblocks (specify “resolved/not resolved” status)**
+
+1. **Authentication/login issue – status: not resolved.** While testing the feature manually through the browser, I found that the existing `/login/` page did not complete the login process, which prevented me from reaching the Tasks page through the normal browser login flow. I reviewed the existing authentication code and confirmed that the issue was related to the existing login implementation rather than the Card 3.3 task-editing changes. Because authentication was outside the scope of Card 3.3, I did not modify the login functionality. Instead, I used Django's automated test client to authenticate test users directly and verify the Card 3.3 functionality. The automated tests successfully confirmed that authenticated users can edit their own tasks, status changes persist, and users cannot edit another user's tasks. The complete project test suite passed with **14 tests and 0 failures**.
+
+2. **Form and view implementation issues – status: resolved.** During development, I worked through implementation and indentation issues in the task view and corrected them before running the tests.
+
+3. **User-data access protection – status: resolved.** I verified that the edit view checks both the task ID and the logged-in user, preventing users from editing another user's task. The authorization test passed successfully.
