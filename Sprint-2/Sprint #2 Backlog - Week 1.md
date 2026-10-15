@@ -16,6 +16,6 @@ During Week 1 of Sprint #2, I worked on Card 2.3 – Login Screen and Company-Em
 
 ### Card 2.3 – Trello
 
-![Sprint 2](screenshots/1Sprint%20%232%20Backlog-week%201.png)
+![Sprint 2](<screenshots/1Sprint%20%232%20Backlog-week%201.png>)
 
 
