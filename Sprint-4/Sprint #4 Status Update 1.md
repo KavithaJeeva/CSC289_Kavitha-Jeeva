@@ -14,6 +14,23 @@ My assigned task is:
 **Card 4.1 – Input and Save the Weekly Meeting Schedule (UR1)**
 ## Trello Card:
 
+![Sprint 4 Status Update 1](Screenshots/Sprint%20%234%20Status%20Update%201.png)
+
+### Week 1 Evidence
+
+**1. Code Implementation**
+
+![Sprint 4 Week 1 Code](Screenshots/Sprint-4_week1_code.png)
+
+**2. Automated Tests – Passing**
+
+![Sprint 4 Week 1 Tests](Screenshots/Sprint-4_Week1_Tests.png)
+
+**3. Continuous Integration (CI) – Passed**
+
+![Sprint 4 Week 1 CI Passed](Screenshots/Sprint-4_Week1_CI-Passed.png)
+
+
 The goal is to allow users to enter and save their weekly meeting schedules under their own accounts.
 
 ### 2. Work Completed
@@ -28,7 +45,7 @@ During Week 1, I worked on the basic meeting schedule functionality.
 
 ### 3. Current Status
 
-**Status: In Progress — approximately 50% complete.**
+**Status: In Progress.**
 
 The basic meeting entry and saving functionality has been implemented, and saved meetings are appearing on the schedule page. The remaining work includes further verification and testing.
 

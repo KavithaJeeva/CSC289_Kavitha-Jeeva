@@ -12,6 +12,8 @@ Implement the weekly meeting schedule feature so users can enter, save, and view
 
 ## Sprint Backlog
 
+![Sprint 4 Backlog](screenshots/Sprint%20%234%20Backlog.png)
+
 ### Card 4.1 – Input and Save the Weekly Meeting Schedule (UR1)
 
 **User Requirement:** UR1 — Users can enter and save their weekly meeting schedule.
